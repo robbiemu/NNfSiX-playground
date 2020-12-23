@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos'>
+    <pages>
+        <page name='p001 Basic Neuron with 3 Inputs'/>
+        <page name='p002 Basic Neuron Layer'/>
+        <page name='p003 Dot Product'/>
+        <page name='p004 Layers and Object'/>
+        <page name='p005 ReLU Activation'/>
+    </pages>
+</playground>
