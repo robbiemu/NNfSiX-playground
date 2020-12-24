@@ -65,7 +65,7 @@ extension Array where Element == [Double] {
         return zip(self.indices, self).map{ (index, row) -> [Double] in rt.dot(row)! }
     }
     
-    public func add(_ rval: [Double]) -> [[Double]]? {
+    public func add (_ rval: [Double]) -> [[Double]]? {
         if self[0].count != rval.count { return nil }
         
         return self.map{ row in zip(row, rval).map(+) }

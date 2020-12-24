@@ -6,5 +6,6 @@
         <page name='p003 Dot Product'/>
         <page name='p004 Layers and Object'/>
         <page name='p005 ReLU Activation'/>
+        <page name='p006 Softmax Activation'/>
     </pages>
 </playground>
